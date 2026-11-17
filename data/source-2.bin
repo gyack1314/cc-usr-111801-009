@@ -1,0 +1,11 @@
+{
+  "kind": "approval",
+  "id": "approval-B",
+  "revision": "v1",
+  "phase": "一期",
+  "jurisdiction": "乙地",
+  "references": [
+    "draft-A"
+  ],
+  "verified": false
+}

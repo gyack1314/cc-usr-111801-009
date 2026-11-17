@@ -1,0 +1,11 @@
+{
+  "kind": "draft",
+  "id": "draft-A",
+  "revision": "v1",
+  "phase": "一期",
+  "jurisdiction": "甲地",
+  "references": [
+    "approval-B"
+  ],
+  "attachment": "source-2.bin"
+}
