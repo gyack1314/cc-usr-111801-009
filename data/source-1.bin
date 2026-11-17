@@ -2,10 +2,8 @@
   "kind": "draft",
   "id": "draft-A",
   "revision": "v1",
-  "phase": "一期",
-  "jurisdiction": "甲地",
-  "references": [
-    "approval-B"
-  ],
-  "attachment": "source-2.bin"
+  "phase": "二期",
+  "hydrogen_tonnes_per_year": 200000,
+  "status": "draft",
+  "attachment": "A-1"
 }

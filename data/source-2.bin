@@ -3,9 +3,9 @@
   "id": "approval-B",
   "revision": "v1",
   "phase": "一期",
-  "jurisdiction": "乙地",
+  "hydrogen_tonnes_per_year": 100000,
+  "status": "approved",
   "references": [
     "draft-A"
-  ],
-  "verified": false
+  ]
 }
